@@ -1,7 +1,7 @@
-#define LED_PIN1 12
-#define LED_PIN2 13
-#define LED_PIN3 14
-#define LED_PIN4 15
+#define LED_PIN1 18
+#define LED_PIN2 19
+#define LED_PIN3 17
+#define LED_PIN4 16
 
 void drv_led_r(int status);
 void drv_led_fr(int status);
